@@ -1,9 +1,9 @@
 ## Team number: 3
 
 # Team Members:
-- Ahmed Selim Mahmoud 
-- Hager Mohamed Hegazy
-- Nour Ali Saif
+- ### Ahmed Selim Mahmoud --> Design_Patterns
+- ### Hager Mohamed Hegazy --> SOLID_Principles , Test_Driven_Development
+- ### Nour Ali Saif --> Software_Architecture_Patterns
 
 
 # Task Structure
