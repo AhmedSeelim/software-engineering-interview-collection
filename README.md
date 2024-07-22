@@ -16,7 +16,13 @@ Discover Test-Driven Development (TDD) in Python, covering its definition, cycle
 
 ## Contribution:
 Contributions are welcome! Feel free to submit pull requests or open issues for any improvements or corrections.
-##License:
-This project is licensed under the MIT License.
+
 ## Contact:
 For any inquiries or questions, please contact ahmedselimmahmoud1@gmail.com.
+
+## Team Members
+- [Ahmed Selim Mahmoud](https://www.linkedin.com/in/ahmed-selim-230953221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Hager Mohamed Ahmed](https://www.linkedin.com/in/hager-hagezy-4253a4250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Nour Saif](https://www.linkedin.com/in/ACoAAEKlKlMBMYRSMzKFxNyVDliYxfSmYzpgfoQ?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BW45yY8MQRi%2BvH2ZM9tP6tw%3D%3D)
+
+
